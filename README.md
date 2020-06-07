@@ -26,12 +26,15 @@ lib/screens: This is the directory where I created the screens that will be view
  
  <div class="row">
   <div class="column">
-<img src="https://user-images.githubusercontent.com/49881677/83959287-abc47480-a86a-11ea-833b-df3a72a23967.png" alt="News List" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/49881677/83959287-abc47480-a86a-11ea-833b-df3a72a23967.png" alt="News List" width="250" height="400" />
+   <h3>News List</h3>
   </div>
   <div class="column" float="left" width="33.33%" padding="5px">
-<img src="https://user-images.githubusercontent.com/49881677/83959309-ee864c80-a86a-11ea-9a06-e4f2d9553895.png" alt="News Details" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/49881677/83959309-ee864c80-a86a-11ea-9a06-e4f2d9553895.png" alt="News Details" width="250" height="400" />
+   <h3>News Details</h3>
   </div>
   <div class="column">
-<img src="recording.gif" alt="Demo" width="200" height="400" />
+<img src="recording.gif" alt="Demo" width="250" height="400" />
+   <h3>Demo</h3>
   </div>
 </div>
