@@ -25,10 +25,10 @@ lib/screens: This is the directory where I created the screens that will be view
 ## visuals
  
 News List
-![Screenshot_1591497650](https://user-images.githubusercontent.com/49881677/83959287-abc47480-a86a-11ea-833b-df3a72a23967.png)
+![Screenshot_1591497650](https://user-images.githubusercontent.com/49881677/83959287-abc47480-a86a-11ea-833b-df3a72a23967.png =200x)
 
 News Details
-![Screenshot_1591498006](https://user-images.githubusercontent.com/49881677/83959309-ee864c80-a86a-11ea-9a06-e4f2d9553895.png)
+![Screenshot_1591498006](https://user-images.githubusercontent.com/49881677/83959309-ee864c80-a86a-11ea-9a06-e4f2d9553895.png =200x)
 
 Gif Video
-![](recording.gif)
+![](recording.gif =200x)
